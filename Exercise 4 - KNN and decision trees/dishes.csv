@@ -1,0 +1,884 @@
+UserName;Dish;Score
+nilstesd;Pizza Napolitana;6
+nilstesd;Pizza Margherita;4
+nilstesd;Pasta Bolognese;5
+nilstesd;Pasta Carbonara;5
+nilstesd;Chicken Curry;4
+nilstesd;Chicken Tikka Masala;5
+nilstesd;Chili Con Carne;4
+nilstesd;Kebab;3
+nilstesd;Sushi;6
+nilstesd;Paella;6
+nilstesd;Bacalao;6
+nilstesd;Taco;2
+nilstesd;Sweet And Sour Pork;3
+nilstesd;MacDonalds Cheeseburger;1
+nilstesd;Kentucky Fried Chicken;2
+nilstesd;Lutefisk;5
+nilstesd;Coq au vin;5
+nilstesd;Ratatouille;4
+nilstesd;Moules frites;5
+kjetsand;Pizza Napolitana;4
+kjetsand;Pizza Margherita;3
+kjetsand;Pasta Bolognese;3
+kjetsand;Pasta Carbonara;3
+kjetsand;Chicken Curry;5
+kjetsand;Chicken Tikka Masala;5
+kjetsand;Chili Con Carne;3
+kjetsand;Kebab;3
+kjetsand;Sushi;5
+kjetsand;Paella;3
+kjetsand;Bacalao;3
+kjetsand;Taco;3
+kjetsand;Sweet And Sour Pork;3
+kjetsand;MacDonalds Cheeseburger;1
+kjetsand;Kentucky Fried Chicken;1
+kjetsand;Lutefisk;6
+kjetsand;Coq au vin;5
+kjetsand;Ratatouille;2
+kjetsand;Moules frites;3
+toralfsk;Pizza Napolitana;1
+toralfsk;Pizza Margherita;1
+toralfsk;Pasta Bolognese;0
+toralfsk;Pasta Carbonara;3
+toralfsk;Chicken Curry;5
+toralfsk;Chicken Tikka Masala;5
+toralfsk;Chili Con Carne;2
+toralfsk;Kebab;1
+toralfsk;Sushi;1
+toralfsk;Paella;2
+toralfsk;Bacalao;3
+toralfsk;Taco;3
+toralfsk;Sweet And Sour Pork;2
+toralfsk;MacDonalds Cheeseburger;5
+toralfsk;Kentucky Fried Chicken;2
+toralfsk;Lutefisk;1
+toralfsk;Coq au vin;4
+toralfsk;Ratatouille;4
+toralfsk;Moules frites;4
+ingvilst;Pizza Napolitana;3
+ingvilst;Pizza Margherita;6
+ingvilst;Pasta Bolognese;6
+ingvilst;Pasta Carbonara;5
+ingvilst;Chicken Curry;2
+ingvilst;Chicken Tikka Masala;2
+ingvilst;Chili Con Carne;5
+ingvilst;Kebab;4
+ingvilst;Sushi;1
+ingvilst;Paella;4
+ingvilst;Bacalao;6
+ingvilst;Taco;4
+ingvilst;Sweet And Sour Pork;2
+ingvilst;MacDonalds Cheeseburger;1
+ingvilst;Kentucky Fried Chicken;1
+ingvilst;Lutefisk;2
+ingvilst;Coq au vin;3
+ingvilst;Ratatouille;4
+ingvilst;Moules frites;3
+roychrin;Pizza Napolitana;2
+roychrin;Pizza Margherita;2
+roychrin;Pasta Bolognese;5
+roychrin;Pasta Carbonara;5
+roychrin;Chicken Curry;4
+roychrin;Chicken Tikka Masala;5
+roychrin;Chili Con Carne;4
+roychrin;Kebab;2
+roychrin;Sushi;4
+roychrin;Paella;2
+roychrin;Bacalao;1
+roychrin;Taco;5
+roychrin;Sweet And Sour Pork;3
+roychrin;MacDonalds Cheeseburger;3
+roychrin;Kentucky Fried Chicken;5
+roychrin;Lutefisk;1
+roychrin;Coq au vin;6
+roychrin;Ratatouille;5
+roychrin;Moules frites;1
+keb;Pizza Napolitana;1
+keb;Pizza Margherita;4
+keb;Pasta Bolognese;4
+keb;Pasta Carbonara;5
+keb;Chicken Curry;6
+keb;Chicken Tikka Masala;5
+keb;Chili Con Carne;4
+keb;Kebab;6
+keb;Sushi;5
+keb;Paella;3
+keb;Bacalao;6
+keb;Taco;5
+keb;Sweet And Sour Pork;3
+keb;MacDonalds Cheeseburger;2
+keb;Kentucky Fried Chicken;4
+keb;Lutefisk;5
+keb;Coq au vin;6
+keb;Ratatouille;4
+keb;Moules frites;4
+torem;Pizza Napolitana;2
+torem;Pizza Margherita;2
+torem;Pasta Bolognese;2
+torem;Pasta Carbonara;2
+torem;Chicken Curry;4
+torem;Chicken Tikka Masala;5
+torem;Chili Con Carne;4
+torem;Kebab;1
+torem;Sushi;5
+torem;Paella;3
+torem;Bacalao;3
+torem;Taco;3
+torem;Sweet And Sour Pork;5
+torem;MacDonalds Cheeseburger;2
+torem;Kentucky Fried Chicken;3
+torem;Lutefisk;3
+xsu;Pizza Napolitana;2
+xsu;Pizza Margherita;3
+xsu;Pasta Bolognese;3
+xsu;Pasta Carbonara;4
+xsu;Chicken Curry;3
+xsu;Chicken Tikka Masala;2
+xsu;Chili Con Carne;4
+xsu;Kebab;3
+xsu;Sushi;5
+xsu;Paella;5
+xsu;Bacalao;6
+xsu;Taco;3
+xsu;Sweet And Sour Pork;2
+xsu;MacDonalds Cheeseburger;1
+xsu;Kentucky Fried Chicken;2
+xsu;Lutefisk;1
+xsu;Coq au vin;4
+xsu;Ratatouille;6
+xsu;Moules frites;4
+evend;Pizza Napolitana;6
+evend;Pizza Margherita;5
+evend;Pasta Bolognese;4
+evend;Pasta Carbonara;6
+evend;Chicken Curry;4
+evend;Chicken Tikka Masala;6
+evend;Chili Con Carne;4
+evend;Kebab;5
+evend;Sushi;5
+evend;Paella;4
+evend;Bacalao;4
+evend;Taco;4
+evend;Sweet And Sour Pork;3
+evend;MacDonalds Cheeseburger;2
+evend;Kentucky Fried Chicken;2
+evend;Lutefisk;5
+evend;Coq au vin;4
+evend;Ratatouille;5
+evend;Moules frites;3
+marenkam;Pizza Napolitana;3
+marenkam;Pizza Margherita;4
+marenkam;Pasta Bolognese;4
+marenkam;Pasta Carbonara;3
+marenkam;Chicken Curry;4
+marenkam;Chicken Tikka Masala;6
+marenkam;Chili Con Carne;5
+marenkam;Kebab;1
+marenkam;Sushi;6
+marenkam;Paella;3
+marenkam;Bacalao;2
+marenkam;Taco;3
+marenkam;Sweet And Sour Pork;3
+marenkam;MacDonalds Cheeseburger;1
+marenkam;Kentucky Fried Chicken;1
+marenkam;Lutefisk;2
+marenkam;Coq au vin;5
+marenkam;Ratatouille;4
+marenkam;Moules frites;6
+gunwaldo;Pizza Napolitana;4
+gunwaldo;Pizza Margherita;3
+gunwaldo;Pasta Bolognese;5
+gunwaldo;Pasta Carbonara;6
+gunwaldo;Chicken Curry;4
+gunwaldo;Chicken Tikka Masala;5
+gunwaldo;Chili Con Carne;4
+gunwaldo;Kebab;5
+gunwaldo;Sushi;6
+gunwaldo;Paella;5
+gunwaldo;Bacalao;4
+gunwaldo;Taco;2
+gunwaldo;Sweet And Sour Pork;4
+gunwaldo;MacDonalds Cheeseburger;1
+gunwaldo;Kentucky Fried Chicken;1
+gunwaldo;Lutefisk;6
+gunwaldo;Coq au vin;4
+gunwaldo;Ratatouille;3
+gunwaldo;Moules frites;2
+runesalt;Pizza Margherita;4
+runesalt;Pasta Bolognese;4
+runesalt;Pasta Carbonara;4
+runesalt;Chicken Curry;4
+runesalt;Chicken Tikka Masala;5
+runesalt;Chili Con Carne;2
+runesalt;Kebab;1
+runesalt;Sushi;6
+runesalt;Paella;3
+runesalt;Bacalao;5
+runesalt;Taco;3
+runesalt;Sweet And Sour Pork;3
+runesalt;MacDonalds Cheeseburger;1
+runesalt;Kentucky Fried Chicken;2
+runesalt;Lutefisk;1
+runesalt;Coq au vin;6
+runesalt;Ratatouille;4
+runesalt;Moules frites;6
+annedah;Pizza Napolitana;2
+annedah;Pizza Margherita;2
+annedah;Pasta Bolognese;5
+annedah;Pasta Carbonara;4
+annedah;Chicken Curry;2
+annedah;Chicken Tikka Masala;2
+annedah;Chili Con Carne;1
+annedah;Kebab;2
+annedah;Sushi;6
+annedah;Paella;5
+annedah;Bacalao;5
+annedah;Taco;2
+annedah;Sweet And Sour Pork;3
+annedah;MacDonalds Cheeseburger;3
+annedah;Kentucky Fried Chicken;1
+annedah;Lutefisk;1
+annedah;Coq au vin;2
+annedah;Ratatouille;4
+annedah;Moules frites;5
+bgulbra;Pizza Napolitana;3
+bgulbra;Pizza Margherita;2
+bgulbra;Pasta Bolognese;2
+bgulbra;Pasta Carbonara;4
+bgulbra;Chicken Curry;6
+bgulbra;Chicken Tikka Masala;6
+bgulbra;Chili Con Carne;5
+bgulbra;Kebab;5
+bgulbra;Sushi;6
+bgulbra;Paella;3
+bgulbra;Bacalao;5
+bgulbra;Taco;3
+bgulbra;Sweet And Sour Pork;3
+bgulbra;MacDonalds Cheeseburger;1
+bgulbra;Kentucky Fried Chicken;1
+bgulbra;Lutefisk;1
+bgulbra;Coq au vin;3
+bgulbra;Ratatouille;5
+bgulbra;Moules frites;1
+magnumje;Pizza Napolitana;5
+magnumje;Pizza Margherita;4
+magnumje;Pasta Bolognese;4
+magnumje;Pasta Carbonara;5
+magnumje;Chicken Curry;5
+magnumje;Chicken Tikka Masala;5
+magnumje;Chili Con Carne;6
+magnumje;Kebab;6
+magnumje;Sushi;1
+magnumje;Paella;3
+magnumje;Bacalao;2
+magnumje;Taco;6
+magnumje;Sweet And Sour Pork;3
+magnumje;MacDonalds Cheeseburger;1
+magnumje;Kentucky Fried Chicken;3
+magnumje;Lutefisk;1
+magnumje;Coq au vin;3
+magnumje;Ratatouille;4
+magnumje;Moules frites;3
+kgrolse;Pizza Napolitana;4
+kgrolse;Pizza Margherita;3
+kgrolse;Pasta Bolognese;4
+kgrolse;Pasta Carbonara;3
+kgrolse;Chicken Curry;5
+kgrolse;Chicken Tikka Masala;5
+kgrolse;Chili Con Carne;4
+kgrolse;Kebab;1
+kgrolse;Sushi;6
+kgrolse;Paella;5
+kgrolse;Bacalao;6
+kgrolse;Taco;4
+kgrolse;Sweet And Sour Pork;3
+kgrolse;MacDonalds Cheeseburger;1
+kgrolse;Kentucky Fried Chicken;1
+kgrolse;Lutefisk;4
+kgrolse;Coq au vin;6
+kgrolse;Ratatouille;4
+kgrolse;Moules frites;1
+tovestod;Pizza Napolitana;4
+tovestod;Pizza Margherita;3
+tovestod;Pasta Bolognese;3
+tovestod;Pasta Carbonara;3
+tovestod;Chicken Curry;5
+tovestod;Chicken Tikka Masala;5
+tovestod;Chili Con Carne;5
+tovestod;Kebab;1
+tovestod;Sushi;6
+tovestod;Paella;4
+tovestod;Bacalao;5
+tovestod;Taco;4
+tovestod;Sweet And Sour Pork;2
+tovestod;MacDonalds Cheeseburger;1
+tovestod;Kentucky Fried Chicken;1
+tovestod;Lutefisk;1
+tovestod;Coq au vin;5
+tovestod;Ratatouille;5
+tovestod;Moules frites;5
+mkguld;Pizza Napolitana;4
+mkguld;Pizza Margherita;4
+mkguld;Pasta Bolognese;3
+mkguld;Pasta Carbonara;5
+mkguld;Chicken Curry;5
+mkguld;Chicken Tikka Masala;6
+mkguld;Chili Con Carne;4
+mkguld;Kebab;3
+mkguld;Sushi;2
+mkguld;Bacalao;3
+mkguld;Taco;3
+mkguld;Sweet And Sour Pork;4
+mkguld;MacDonalds Cheeseburger;2
+mkguld;Lutefisk;5
+edw;Pizza Napolitana;1
+edw;Pizza Margherita;1
+edw;Pasta Bolognese;2
+edw;Pasta Carbonara;6
+edw;Chicken Curry;5
+edw;Chicken Tikka Masala;4
+edw;Chili Con Carne;3
+edw;Kebab;1
+edw;Sushi;3
+edw;Paella;3
+edw;Bacalao;6
+edw;Taco;2
+edw;Sweet And Sour Pork;2
+edw;MacDonalds Cheeseburger;1
+edw;Kentucky Fried Chicken;2
+edw;Lutefisk;6
+edw;Coq au vin;5
+edw;Ratatouille;4
+edw;Moules frites;6
+thomaaho;Pizza Napolitana;6
+thomaaho;Pizza Margherita;3
+thomaaho;Pasta Bolognese;4
+thomaaho;Pasta Carbonara;5
+thomaaho;Chicken Curry;4
+thomaaho;Chicken Tikka Masala;5
+thomaaho;Chili Con Carne;4
+thomaaho;Kebab;3
+thomaaho;Sushi;6
+thomaaho;Paella;5
+thomaaho;Bacalao;5
+thomaaho;Taco;3
+janeis;Pizza Napolitana;4
+janeis;Pizza Margherita;6
+janeis;Pasta Bolognese;3
+janeis;Pasta Carbonara;5
+janeis;Chicken Curry;5
+janeis;Chicken Tikka Masala;5
+janeis;Chili Con Carne;4
+janeis;Kebab;3
+janeis;Sushi;6
+janeis;Paella;3
+janeis;Bacalao;3
+janeis;Taco;3
+janeis;Sweet And Sour Pork;3
+janeis;MacDonalds Cheeseburger;6
+janeis;Kentucky Fried Chicken;4
+janeis;Lutefisk;5
+janeis;Coq au vin;5
+janeis;Ratatouille;4
+janeis;Moules frites;4
+glenngr;Pizza Napolitana;1
+glenngr;Pizza Margherita;1
+glenngr;Pasta Bolognese;1
+glenngr;Pasta Carbonara;1
+glenngr;Chicken Curry;4
+glenngr;Chicken Tikka Masala;5
+glenngr;Chili Con Carne;4
+glenngr;Kebab;2
+glenngr;Sushi;6
+glenngr;Paella;3
+glenngr;Bacalao;4
+glenngr;Taco;1
+glenngr;Sweet And Sour Pork;2
+glenngr;MacDonalds Cheeseburger;1
+glenngr;Kentucky Fried Chicken;1
+glenngr;Lutefisk;5
+glenngr;Ratatouille;5
+martiro;Pizza Napolitana;6
+martiro;Pizza Margherita;4
+martiro;Pasta Bolognese;6
+martiro;Pasta Carbonara;6
+martiro;Chicken Curry;6
+martiro;Chicken Tikka Masala;6
+martiro;Chili Con Carne;6
+martiro;Kebab;6
+martiro;Sushi;1
+martiro;Paella;5
+martiro;Bacalao;4
+martiro;Taco;3
+martiro;Sweet And Sour Pork;4
+martiro;MacDonalds Cheeseburger;2
+martiro;Kentucky Fried Chicken;3
+martiro;Lutefisk;3
+martiro;Coq au vin;6
+martiro;Ratatouille;5
+martiro;Moules frites;3
+marrei;Pizza Napolitana;6
+marrei;Pizza Margherita;4
+marrei;Pasta Bolognese;4
+marrei;Pasta Carbonara;6
+marrei;Chicken Curry;3
+marrei;Chicken Tikka Masala;3
+marrei;Chili Con Carne;5
+marrei;Kebab;5
+marrei;Sushi;4
+marrei;Paella;3
+marrei;Bacalao;3
+marrei;Taco;5
+marrei;Sweet And Sour Pork;3
+marrei;MacDonalds Cheeseburger;2
+marrei;Kentucky Fried Chicken;2
+marrei;Lutefisk;1
+marrei;Coq au vin;2
+marrei;Ratatouille;3
+marrei;Moules frites;3
+leiflto;Pizza Napolitana;4
+leiflto;Pizza Margherita;5
+leiflto;Pasta Bolognese;5
+leiflto;Pasta Carbonara;6
+leiflto;Chicken Curry;2
+leiflto;Chicken Tikka Masala;3
+leiflto;Chili Con Carne;5
+leiflto;Kebab;6
+leiflto;Sushi;6
+leiflto;Paella;3
+leiflto;Bacalao;1
+leiflto;Taco;5
+leiflto;Sweet And Sour Pork;5
+leiflto;MacDonalds Cheeseburger;1
+leiflto;Kentucky Fried Chicken;4
+leiflto;Lutefisk;1
+leiflto;Coq au vin;5
+leiflto;Ratatouille;5
+leiflto;Moules frites;3
+natthas;Pizza Napolitana;6
+natthas;Pizza Margherita;3
+natthas;Pasta Bolognese;4
+natthas;Pasta Carbonara;5
+natthas;Chicken Curry;4
+natthas;Chicken Tikka Masala;5
+natthas;Chili Con Carne;4
+natthas;Kebab;3
+natthas;Sushi;6
+natthas;Paella;5
+natthas;Bacalao;5
+natthas;Taco;3
+natthas;Sweet And Sour Pork;3
+natthas;MacDonalds Cheeseburger;1
+natthas;Kentucky Fried Chicken;3
+natthas;Lutefisk;4
+natthas;Coq au vin;6
+natthas;Ratatouille;5
+natthas;Moules frites;6
+oleksa;Pizza Napolitana;4
+oleksa;Pizza Margherita;2
+oleksa;Pasta Bolognese;4
+oleksa;Pasta Carbonara;5
+oleksa;Chicken Curry;5
+oleksa;Chicken Tikka Masala;5
+oleksa;Chili Con Carne;3
+oleksa;Kebab;2
+oleksa;Sushi;5
+oleksa;Paella;5
+oleksa;Bacalao;2
+oleksa;Taco;5
+oleksa;Sweet And Sour Pork;4
+oleksa;MacDonalds Cheeseburger;3
+oleksa;Kentucky Fried Chicken;2
+oleksa;Lutefisk;1
+oleksa;Coq au vin;4
+oleksa;Ratatouille;4
+oleksa;Moules frites;6
+joakiknu;Pizza Napolitana;5
+joakiknu;Pizza Margherita;1
+joakiknu;Pasta Bolognese;6
+joakiknu;Pasta Carbonara;5
+joakiknu;Chicken Curry;5
+joakiknu;Chicken Tikka Masala;5
+joakiknu;Chili Con Carne;3
+joakiknu;Kebab;1
+joakiknu;Sushi;5
+joakiknu;Paella;5
+joakiknu;Bacalao;5
+joakiknu;Taco;5
+joakiknu;Sweet And Sour Pork;4
+joakiknu;MacDonalds Cheeseburger;3
+joakiknu;Kentucky Fried Chicken;2
+joakiknu;Lutefisk;1
+joakiknu;Coq au vin;4
+joakiknu;Ratatouille;4
+joakiknu;Moules frites;6
+timonn;Pizza Napolitana;4
+timonn;Pizza Margherita;4
+timonn;Pasta Bolognese;5
+timonn;Pasta Carbonara;5
+timonn;Chicken Curry;6
+timonn;Chicken Tikka Masala;5
+timonn;Chili Con Carne;4
+timonn;Kebab;6
+timonn;Sushi;2
+timonn;Taco;6
+timonn;Sweet And Sour Pork;5
+timonn;MacDonalds Cheeseburger;1
+timonn;Kentucky Fried Chicken;4
+timonn;Lutefisk;4
+timonn;Ratatouille;4
+timonn;Moules frites;4
+finnks;Pizza Napolitana;4
+finnks;Pizza Margherita;3
+finnks;Pasta Bolognese;4
+finnks;Pasta Carbonara;5
+finnks;Chicken Curry;4
+finnks;Chicken Tikka Masala;5
+finnks;Chili Con Carne;3
+finnks;Kebab;3
+finnks;Sushi;5
+finnks;Taco;5
+finnks;Sweet And Sour Pork;2
+finnks;MacDonalds Cheeseburger;3
+finnks;Kentucky Fried Chicken;3
+finnks;Lutefisk;3
+finnks;Ratatouille;3
+finnks;Moules frites;4
+vseder;Pizza Napolitana;4
+vseder;Pizza Margherita;4
+vseder;Pasta Bolognese;4
+vseder;Pasta Carbonara;4
+vseder;Chicken Curry;4
+vseder;Chicken Tikka Masala;4
+vseder;Chili Con Carne;3
+vseder;Kebab;5
+vseder;Sushi;1
+vseder;Paella;1
+vseder;Bacalao;2
+vseder;Taco;5
+vseder;Sweet And Sour Pork;4
+vseder;MacDonalds Cheeseburger;3
+vseder;Kentucky Fried Chicken;3
+vseder;Lutefisk;1
+vseder;Ratatouille;3
+vseder;Moules frites;2
+steinvas;Pizza Napolitana;6
+steinvas;Pizza Margherita;3
+steinvas;Pasta Bolognese;6
+steinvas;Pasta Carbonara;4
+steinvas;Chicken Curry;4
+steinvas;Chicken Tikka Masala;6
+steinvas;Chili Con Carne;3
+steinvas;Kebab;4
+steinvas;Sushi;5
+steinvas;Taco;6
+steinvas;Sweet And Sour Pork;3
+steinvas;MacDonalds Cheeseburger;3
+steinvas;Kentucky Fried Chicken;3
+steinvas;Lutefisk;3
+steinvas;Moules frites;4
+eddiebo;Pizza Napolitana;5
+eddiebo;Pizza Margherita;4
+eddiebo;Pasta Bolognese;3
+eddiebo;Pasta Carbonara;5
+eddiebo;Chicken Curry;4
+eddiebo;Chicken Tikka Masala;3
+eddiebo;Chili Con Carne;3
+eddiebo;Kebab;4
+eddiebo;Sushi;5
+eddiebo;Paella;5
+eddiebo;Bacalao;5
+eddiebo;Taco;5
+eddiebo;Sweet And Sour Pork;3
+eddiebo;MacDonalds Cheeseburger;3
+eddiebo;Kentucky Fried Chicken;4
+eddiebo;Lutefisk;1
+eddiebo;Coq au vin;5
+eddiebo;Ratatouille;4
+eddiebo;Moules frites;3
+espenlil;Pizza Napolitana;3
+espenlil;Pizza Margherita;5
+espenlil;Pasta Bolognese;3
+espenlil;Pasta Carbonara;2
+espenlil;Chicken Curry;5
+espenlil;Chicken Tikka Masala;5
+espenlil;Chili Con Carne;4
+espenlil;Kebab;4
+espenlil;Sushi;5
+espenlil;Paella;1
+espenlil;Bacalao;2
+espenlil;Taco;3
+espenlil;Sweet And Sour Pork;1
+espenlil;MacDonalds Cheeseburger;2
+espenlil;Kentucky Fried Chicken;4
+espenlil;Lutefisk;1
+espenlil;Coq au vin;3
+espenlil;Ratatouille;3
+espenlil;Moules frites;5
+timz;Pizza Napolitana;5
+timz;Pizza Margherita;5
+timz;Pasta Bolognese;4
+timz;Pasta Carbonara;3
+timz;Chicken Curry;5
+timz;Chicken Tikka Masala;3
+timz;Chili Con Carne;4
+timz;Kebab;7
+timz;Sushi;1
+timz;Taco;6
+timz;Sweet And Sour Pork;4
+timz;MacDonalds Cheeseburger;2
+timz;Kentucky Fried Chicken;4
+timz;Lutefisk;2
+timz;Ratatouille;2
+timz;Moules frites;2
+pval;Pizza Napolitana;5
+pval;Pizza Margherita;5
+pval;Pasta Bolognese;5
+pval;Pasta Carbonara;4
+pval;Chicken Curry;1
+pval;Chicken Tikka Masala;3
+pval;Chili Con Carne;4
+pval;Kebab;7
+pval;Sushi;1
+pval;Taco;2
+pval;Sweet And Sour Pork;4
+pval;MacDonalds Cheeseburger;3
+pval;Kentucky Fried Chicken;2
+pval;Lutefisk;1
+pval;Ratatouille;1
+pval;Moules frites;1
+oleaham;Pizza Napolitana;5
+oleaham;Pizza Margherita;3
+oleaham;Pasta Bolognese;5
+oleaham;Pasta Carbonara;4
+oleaham;Chicken Curry;6
+oleaham;Chicken Tikka Masala;3
+oleaham;Chili Con Carne;6
+oleaham;Kebab;5
+oleaham;Sushi;4
+oleaham;Paella;3
+oleaham;Bacalao;3
+oleaham;Taco;4
+oleaham;Sweet And Sour Pork;3
+oleaham;MacDonalds Cheeseburger;2
+oleaham;Kentucky Fried Chicken;4
+oleaham;Lutefisk;6
+oleaham;Coq au vin;2
+oleaham;Ratatouille;3
+oleaham;Moules frites;3
+krishoy;Pizza Napolitana;3
+krishoy;Pizza Margherita;3
+krishoy;Pasta Bolognese;2
+krishoy;Pasta Carbonara;3
+krishoy;Chicken Curry;5
+krishoy;Chicken Tikka Masala;5
+krishoy;Chili Con Carne;5
+krishoy;Kebab;4
+krishoy;Sushi;5
+krishoy;Paella;5
+krishoy;Bacalao;3
+krishoy;Taco;5
+krishoy;Sweet And Sour Pork;2
+krishoy;MacDonalds Cheeseburger;3
+krishoy;Kentucky Fried Chicken;3
+krishoy;Lutefisk;4
+krishoy;Coq au vin;3
+krishoy;Ratatouille;3
+krishoy;Moules frites;4
+zabin;Pizza Napolitana;2
+zabin;Pizza Margherita;1
+zabin;Pasta Bolognese;4
+zabin;Pasta Carbonara;4
+zabin;Chicken Curry;6
+zabin;Chicken Tikka Masala;6
+zabin;Chili Con Carne;3
+zabin;Kebab;5
+zabin;Sushi;6
+zabin;Paella;3
+zabin;Bacalao;2
+zabin;Taco;4
+zabin;Sweet And Sour Pork;4
+zabin;MacDonalds Cheeseburger;5
+zabin;Kentucky Fried Chicken;2
+zabin;Lutefisk;4
+zabin;Coq au vin;5
+zabin;Ratatouille;2
+zabin;Moules frites;5
+patrickg;Pizza Napolitana;6
+patrickg;Pizza Margherita;4
+patrickg;Pasta Bolognese;1
+patrickg;Pasta Carbonara;2
+patrickg;Chicken Curry;3
+patrickg;Chicken Tikka Masala;1
+patrickg;Chili Con Carne;4
+patrickg;Kebab;1
+patrickg;Sushi;6
+patrickg;Paella;4
+patrickg;Bacalao;5
+patrickg;Taco;4
+patrickg;Sweet And Sour Pork;4
+patrickg;MacDonalds Cheeseburger;1
+patrickg;Kentucky Fried Chicken;1
+patrickg;Lutefisk;4
+patrickg;Coq au vin;2
+patrickg;Ratatouille;5
+patrickg;Moules frites;4
+remia;Pizza Napolitana;6
+remia;Pizza Margherita;4
+remia;Pasta Bolognese;1
+remia;Pasta Carbonara;2
+remia;Chicken Curry;2
+remia;Chicken Tikka Masala;1
+remia;Chili Con Carne;4
+remia;Kebab;1
+remia;Sushi;6
+remia;Paella;4
+remia;Bacalao;5
+remia;Taco;4
+remia;Sweet And Sour Pork;4
+remia;MacDonalds Cheeseburger;1
+remia;Kentucky Fried Chicken;1
+remia;Lutefisk;4
+remia;Coq au vin;2
+remia;Ratatouille;5
+remia;Moules frites;4
+turidsch;Pasta Bolognese;3
+turidsch;Pasta Carbonara;4
+turidsch;Chicken Curry;5
+turidsch;Chicken Tikka Masala;5
+turidsch;Chili Con Carne;3
+turidsch;Kebab;4
+turidsch;Sushi;6
+turidsch;Bacalao;2
+turidsch;Taco;5
+turidsch;Sweet And Sour Pork;2
+turidsch;MacDonalds Cheeseburger;1
+turidsch;Kentucky Fried Chicken;1
+turidsch;Lutefisk;3
+turidsch;Coq au vin;4
+turidsch;Ratatouille;4
+turidsch;Moules frites;3
+georgsv;Pizza Napolitana;6
+georgsv;Pizza Margherita;2
+georgsv;Pasta Bolognese;6
+georgsv;Pasta Carbonara;3
+georgsv;Chicken Curry;2
+georgsv;Chicken Tikka Masala;6
+georgsv;Chili Con Carne;3
+georgsv;Kebab;4
+georgsv;Sushi;5
+georgsv;Taco;5
+georgsv;Sweet And Sour Pork;6
+georgsv;MacDonalds Cheeseburger;3
+georgsv;Kentucky Fried Chicken;2
+georgsv;Lutefisk;4
+georgsv;Moules frites;4
+martpett;Pizza Napolitana;5
+martpett;Pizza Margherita;3
+martpett;Pasta Bolognese;4
+martpett;Pasta Carbonara;5
+martpett;Chicken Curry;4
+martpett;Chicken Tikka Masala;4
+martpett;Chili Con Carne;4
+martpett;Kebab;3
+martpett;Sushi;5
+martpett;Paella;3
+martpett;Bacalao;3
+martpett;Taco;5
+martpett;Sweet And Sour Pork;5
+martpett;MacDonalds Cheeseburger;3
+martpett;Kentucky Fried Chicken;3
+martpett;Lutefisk;3
+martpett;Coq au vin;3
+martpett;Ratatouille;3
+martpett;Moules frites;3
+jorgbra;Pizza Napolitana;2
+jorgbra;Pizza Margherita;3
+jorgbra;Pasta Bolognese;3
+jorgbra;Pasta Carbonara;4
+jorgbra;Chicken Curry;4
+jorgbra;Chicken Tikka Masala;5
+jorgbra;Chili Con Carne;5
+jorgbra;Kebab;3
+jorgbra;Sushi;4
+jorgbra;Paella;5
+jorgbra;Bacalao;3
+jorgbra;Taco;3
+jorgbra;Sweet And Sour Pork;2
+jorgbra;MacDonalds Cheeseburger;4
+jorgbra;Kentucky Fried Chicken;2
+jorgbra;Lutefisk;5
+jorgbra;Coq au vin;1
+jorgbra;Ratatouille;2
+jorgbra;Moules frites;5
+ragnarpe;Pizza Napolitana;4
+ragnarpe;Pizza Margherita;3
+ragnarpe;Pasta Bolognese;3
+ragnarpe;Pasta Carbonara;3
+ragnarpe;Chicken Curry;4
+ragnarpe;Chicken Tikka Masala;3
+ragnarpe;Chili Con Carne;3
+ragnarpe;Kebab;3
+ragnarpe;Sushi;5
+ragnarpe;Paella;3
+ragnarpe;Bacalao;5
+ragnarpe;Taco;3
+ragnarpe;Sweet And Sour Pork;3
+ragnarpe;MacDonalds Cheeseburger;1
+ragnarpe;Kentucky Fried Chicken;2
+ragnarpe;Lutefisk;5
+ragnarpe;Coq au vin;3
+ragnarpe;Ratatouille;3
+ragnarpe;Moules frites;4
+anitamv;Pizza Napolitana;4
+anitamv;Pizza Margherita;5
+anitamv;Pasta Bolognese;5
+anitamv;Pasta Carbonara;5
+anitamv;Chicken Curry;4
+anitamv;Chicken Tikka Masala;4
+anitamv;Chili Con Carne;4
+anitamv;Kebab;4
+anitamv;Sushi;3
+anitamv;Paella;1
+anitamv;Bacalao;3
+anitamv;Taco;4
+anitamv;Sweet And Sour Pork;4
+anitamv;MacDonalds Cheeseburger;3
+anitamv;Kentucky Fried Chicken;4
+anitamv;Lutefisk;2
+anitamv;Coq au vin;4
+anitamv;Ratatouille;4
+anitamv;Moules frites;3
+olemahan;Pizza Napolitana;4
+olemahan;Pizza Margherita;1
+olemahan;Pasta Bolognese;2
+olemahan;Pasta Carbonara;3
+olemahan;Chicken Curry;5
+olemahan;Chicken Tikka Masala;5
+olemahan;Chili Con Carne;3
+olemahan;Kebab;4
+olemahan;Sushi;1
+olemahan;Paella;2
+olemahan;Bacalao;1
+olemahan;Taco;5
+olemahan;Sweet And Sour Pork;4
+olemahan;MacDonalds Cheeseburger;5
+olemahan;Kentucky Fried Chicken;3
+kayan;Pizza Napolitana;4
+kayan;Pizza Margherita;1
+kayan;Pasta Bolognese;4
+kayan;Pasta Carbonara;5
+kayan;Chicken Curry;4
+kayan;Chicken Tikka Masala;3
+kayan;Chili Con Carne;1
+kayan;Kebab;4
+kayan;Sushi;5
+kayan;Paella;1
+kayan;Bacalao;1
+kayan;Taco;5
+kayan;Sweet And Sour Pork;3
+kayan;MacDonalds Cheeseburger;5
+kayan;Kentucky Fried Chicken;3 
+
+
