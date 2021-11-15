@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "AX0j1zeackxxU-bio5O8",
+    "_type": "dashboard",
+    "_source": {
+      "title": "TB Dashboard",
+      "hits": 0,
+      "description": "",
+      "panelsJSON": "[{\"col\":1,\"id\":\"AX0jl4iQckxxU-bio4oV\",\"panelIndex\":1,\"row\":5,\"size_x\":6,\"size_y\":4,\"type\":\"visualization\"},{\"col\":1,\"id\":\"AX0jjWnDckxxU-bio4ho\",\"panelIndex\":2,\"row\":1,\"size_x\":6,\"size_y\":4,\"type\":\"visualization\"},{\"col\":7,\"id\":\"AX0jfrR5ckxxU-bio4YJ\",\"panelIndex\":3,\"row\":1,\"size_x\":2,\"size_y\":4,\"type\":\"visualization\"},{\"col\":7,\"id\":\"AX0jwa00ckxxU-bio5AV\",\"panelIndex\":4,\"row\":5,\"size_x\":6,\"size_y\":4,\"type\":\"visualization\"},{\"col\":9,\"id\":\"AX0jzZC7ckxxU-bio5JS\",\"panelIndex\":5,\"row\":1,\"size_x\":4,\"size_y\":4,\"type\":\"visualization\"}]",
+      "optionsJSON": "{\"darkTheme\":true}",
+      "uiStateJSON": "{\"P-3\":{\"spy\":{\"mode\":{\"name\":null,\"fill\":false}}},\"P-4\":{\"vis\":{\"legendOpen\":false}},\"P-5\":{\"vis\":{\"defaultColors\":{\"0 - 4\":\"rgb(0,104,55)\"},\"legendOpen\":false}},\"P-6\":{\"vis\":{\"defaultColors\":{\"0 - 4\":\"rgb(0,104,55)\"}}}}",
+      "version": 1,
+      "timeRestore": true,
+      "timeTo": "Mon Nov 15 2021 00:00:00 GMT+0100",
+      "timeFrom": "Sun Nov 14 2021 12:00:00 GMT+0100",
+      "refreshInterval": {
+        "display": "Off",
+        "pause": false,
+        "value": 0
+      },
+      "kibanaSavedObjectMeta": {
+        "searchSourceJSON": "{\"filter\":[{\"query\":{\"match_all\":{}}}],\"highlightAll\":true,\"version\":true}"
+      }
+    }
+  }
+]
