@@ -11,8 +11,8 @@
       "uiStateJSON": "{\"P-3\":{\"spy\":{\"mode\":{\"name\":null,\"fill\":false}}},\"P-4\":{\"vis\":{\"legendOpen\":false}},\"P-5\":{\"vis\":{\"defaultColors\":{\"0 - 4\":\"rgb(0,104,55)\"},\"legendOpen\":false}},\"P-6\":{\"vis\":{\"defaultColors\":{\"0 - 4\":\"rgb(0,104,55)\"}}}}",
       "version": 1,
       "timeRestore": true,
-      "timeTo": "Mon Nov 15 2021 00:00:00 GMT+0100",
-      "timeFrom": "Sun Nov 14 2021 12:00:00 GMT+0100",
+      "timeTo": "now-0d/d",
+      "timeFrom": "now-7d/d",
       "refreshInterval": {
         "display": "Off",
         "pause": false,

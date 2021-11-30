@@ -1,3 +1,5 @@
 */build
 .vscode
 .idea
+*/european-soccer.csv
+*/european-soccer-first100-knn.csv
